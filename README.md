@@ -10,4 +10,3 @@ A clean and professional portfolio website built to showcase my web development 
 - Responsive design
 - Clean and semantic HTML structure
 
-## 📂 Structure
